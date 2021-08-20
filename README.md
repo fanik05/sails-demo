@@ -15,4 +15,4 @@ Go to `/api/controllers/UserController.js`
 
 ## API collection
 
-Get the API collection from [here](https://www.getpostman.com/collections/3d4ff491744a7fe2eb85).
+Get the public link of Postman API collection from [here](https://www.getpostman.com/collections/3d4ff491744a7fe2eb85).
