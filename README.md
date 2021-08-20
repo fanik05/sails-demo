@@ -1,4 +1,4 @@
-# test-project
+# sails-demo-project
 
 ## Routes
 
